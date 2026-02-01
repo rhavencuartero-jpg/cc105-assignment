@@ -215,7 +215,7 @@ public class Main {
                 return num;
             } catch (Exception e) {
                 sc.nextLine();
-                System.out.println("Invalid input, please try again. thxz!");
+                System.out.println("Invalid input, please try again!");
             }
         }
     }
@@ -230,7 +230,7 @@ public class Main {
                 return num;
             } catch (Exception e) {
                 sc.nextLine();
-                System.out.println("Invalid input, please try again. thxz!");
+                System.out.println("Invalid input, please try again!");
             }
         }
     }
